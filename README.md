@@ -1,9 +1,4 @@
 #Neumorphic Expence App 
-
- #!(https://user-images.githubusercontent.com/122194917/221598964-c3d6a9a4-6c42-4930-b725-55bfb077b971.jpg)
-
-#This app gives the expence App a creative Look 
-# This is the 
- ![Screenshot_2023-02-27-10-28-50-756_com example manageyourmoney](https://user-images.githubusercontent.com/122194917/221598960-aeca3d26-1048-4344-8190-efb31be2e2d5.jpg)
-
-![Screenshot_2023-02-27-10-28-38-978_com example manageyourmoney](https://user-images.githubusercontent.com/122194917/221598942-ca24c4d9-16d5-43b0-8a92-8312b0f373a6.jpg)
+![Screenshot_2023-02-27-10-28-38-978_com example manageyourmoney](https://user-images.githubusercontent.com/122194917/221599864-a3ad5061-8e97-4db2-ba37-91d2e4f299e0.jpg)
+![Screenshot_2023-02-27-10-28-50-756_com example manageyourmoney](https://user-images.githubusercontent.com/122194917/221599879-9a051867-1d6c-49f3-977b-d9fa56738fbd.jpg)
+![Screenshot_2023-02-27-10-29-09-239_com example manageyourmoney](https://user-images.githubusercontent.com/122194917/221599884-514ff093-bfea-4831-8f0f-400b6631380f.jpg)
